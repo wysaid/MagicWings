@@ -4,6 +4,13 @@
      wysaid:  Did the coding part of this game.
           Email: wysaid@gmail.com
           blog: qzone.qq.com/wysaid.
+     Ehan-Q: Search the background pictures and
+                  is responsible for the documentation.
+          Email: 
+          blog:
+     cocaRush: Search the background pictures.
+          mail:
+          blog:
 
           If you find any bug in this game,please tell us by
           the email or leave a message in our blog,thanks.
