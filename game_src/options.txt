@@ -1,0 +1,7 @@
+
+      When you entered the game,press 'w' 'a' 's' 'd' 'j' 'k'
+      to control your role.
+      'a' for left, 'w' for up, 'd' for right, 's' for down.
+      'j' for attack, and 'k' for jump.
+      You can also change them by your self.
+      I'll add this function later.
