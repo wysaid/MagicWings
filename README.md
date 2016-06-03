@@ -1,5 +1,10 @@
 <h1> MagicWings </h1>
 
+<h5>
+Tips: if you're using VS2015, please add "legacy_stdio_definitions.lib" in the project dependency.
+提示: 如果你使用的IDE是VS2015, 请在链接依赖库里面加上 "legacy_stdio_definitions.lib", 否则可能无法编译成功。
+</h5>
+
 <h3>此游戏为2011年初所做，代码不甚清晰，现仅放上来供大家参考。希望对你有所帮助<h3>
 
 <h3><b><i> This game is created three years ago. I was not doing so good at that time.
